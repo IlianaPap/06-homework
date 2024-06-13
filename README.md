@@ -1,2 +1,2 @@
-# 06-homework
+# 06-homework-github
  
